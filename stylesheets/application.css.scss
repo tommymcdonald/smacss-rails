@@ -1,4 +1,6 @@
 //*= require_self
+
+@import "bootstrap"; // For use with the bootstrap-sass gem
 @import "globals/all";
 @import "modules/all";
 @import "partials/all";
