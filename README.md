@@ -5,7 +5,7 @@
 https://smacss.com
 
 Usage: Replace your stylesheets folder in your rails application with this folder.
-I've also included an import statement for boottrap to be used with the bootstrap-sass gem.
+I've also included an import statement for bootstrap to be used with the bootstrap-sass gem.
 <code>gem 'bootstrap-sass'</code>
 
 It's truly that simple.
